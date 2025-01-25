@@ -30,7 +30,7 @@ To get started with this dashboard:
 3. Follow the setup instructions provided in the `setup.md` to configure your environment.
 
 ## Dashboard image description
-![Sales and Revenue Analysis Dashboard]()
+![Sales and Revenue Analysis Dashboard](https://github.com/NIKHILG15/Sales-and-Revenue-Dashboard/blob/main/salesdashboardimage.png)
 The included image showcases the dashboard's user interface, which presents:
 - Total transactions and sales summaries.
 - Breakdowns by region and product type.
