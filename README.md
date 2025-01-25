@@ -29,6 +29,15 @@ To get started with this dashboard:
 2. Ensure you have the required dependencies installed.
 3. Follow the setup instructions provided in the `setup.md` to configure your environment.
 
+## Dashboard image description
+![Sales and Revenue Analysis Dashboard]()
+The included image showcases the dashboard's user interface, which presents:
+- Total transactions and sales summaries.
+- Breakdowns by region and product type.
+- Trends over months and sales performance by different retailers.
+- Comparison of in-store and online sales.
+- Various filters like year and quarter for customized views.
+
 ## Contribution
 
 Contributions are welcome! If you'd like to improve the dashboard, please fork the repository and submit a pull request with your changes.
